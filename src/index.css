@@ -22,6 +22,11 @@
 * {
   margin: 0;
   padding: 0;
+  -webkit-tap-highlight-color: transparent;
+}
+
+img {
+  user-select: none;
 }
 
 *::-webkit-scrollbar {
@@ -123,6 +128,7 @@ body {
   fill: #fff;
   transition-duration: var(--transition-duration);
   text-decoration: none;
+  user-select: none;
 }
 .btn:active {
   opacity: .8;

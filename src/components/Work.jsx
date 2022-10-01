@@ -65,6 +65,11 @@ const Work = () => {
                             className="work-card"
                             key={`work-card-${index}`}
                         >
+                            <div className="dots">
+                                <div className="window-dot-1"/>
+                                <div className="window-dot-2"/>
+                                <div className="window-dot-3"/>
+                            </div>
                             <div className="work-card-image">
                                 <div className="work-card-image-wrapper">
                                     <img

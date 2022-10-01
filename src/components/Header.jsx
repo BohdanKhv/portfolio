@@ -41,7 +41,7 @@ const Header = () => {
                             {">"}
                         </h2>
                         <h2 className="arrow-text flex">
-                            <span className="job">Web developer</span><div className="blink text-cursor"/>
+                            <span className="job">Web Developer</span><div className="blink text-cursor"/>
                         </h2>
                     </div>
                 </div>
