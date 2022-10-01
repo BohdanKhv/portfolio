@@ -31,6 +31,14 @@ const Footer = () => {
                   </a>
                 </div>
               </div>
+              <div className="footer-bottom">
+                <small>
+                  Handcrafted by me 2022
+                </small>
+                <h2>
+                  khvorostovskyi.com
+                </h2>
+              </div>
           </div>
         </div>
     </footer>
