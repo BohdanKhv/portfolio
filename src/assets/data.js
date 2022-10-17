@@ -32,6 +32,16 @@ const bohdan = {
 
 const projects = [
     {
+        title: "Track cycle expenses",
+        github: "https://github.com/BohdanKhv/subscriptions-manager-react-native",
+        stack: [
+            "React Native",
+            "Redux",
+            "Redux Persist",
+        ],
+        image: "cyclepay.jpg",
+    },
+    {
         title: "Serverless stock market portfolio builder",
         url: "http://stokin.s3-website.us-east-2.amazonaws.com",
         github: "https://github.com/BohdanKhv/market-watch",
