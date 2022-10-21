@@ -33,7 +33,7 @@ const bohdan = {
 const projects = [
     {
         title: "Track cycle expenses",
-        github: "https://github.com/BohdanKhv/subscriptions-manager-react-native",
+        github: "https://github.com/BohdanKhv/cyclepay",
         stack: [
             "React Native",
             "Redux",
