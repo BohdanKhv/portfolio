@@ -8,7 +8,7 @@ const bohdan = {
         googleplay: "https://play.google.com/store/apps/dev?id=6724538733217670707",
         instagram: "https://www.instagram.com/bohdan.khvorostovskyi/"
     },
-    resume: "/khvorostovskyi-resume.pdf",
+    resume: "/Bohdan_Khvorostovskyi_CV.pdf",
     interests: [
         "Web Development",
         "Design",
@@ -34,6 +34,7 @@ const projects = [
     {
         title: "Track cycle expenses",
         github: "https://github.com/BohdanKhv/cyclepay",
+        url: "https://play.google.com/store/apps/details?id=com.cyclepay",
         stack: [
             "React Native",
             "Redux",
@@ -181,7 +182,6 @@ const projects = [
     },
     {
         title: "Faskme",
-        url: "https://faskme.herokuapp.com/",
         github: "https://github.com/BohdanKhv/FASK.ME",
         stack: [
             "React.js",
@@ -196,7 +196,6 @@ const projects = [
     },
     {
         title: "Schedule app",
-        url: "https://mern-schedule-app.herokuapp.com/",
         github: "https://github.com/BohdanKhv/mern-schedule-app",
         stack: [
             "React.js",
@@ -211,7 +210,6 @@ const projects = [
     },
     {
         title: "Link tree 'clone'",
-        url: "https://link-tree-clone.herokuapp.com/spaceguy",
         github: "https://github.com/BohdanKhv/mern-linktree-clone",
         stack: [
             "React.js",
@@ -226,7 +224,6 @@ const projects = [
     },
     {
         title: "Movie trailer app",
-        url: "https://movies-trailer-spaceguy.herokuapp.com/",
         github: "https://github.com/BohdanKhv/movie_trailer_app",
         stack: [
             "React.js",
@@ -238,7 +235,6 @@ const projects = [
     },
     {
         title: "Book app",
-        url: "https://goodreads-scraper-app.herokuapp.com/",
         github: "https://github.com/BohdanKhv/react-node-book-app",
         stack: [
             "React.js",
@@ -253,7 +249,6 @@ const projects = [
     },
     {
         title: "Live chat app",
-        url: "https://woh-chat-app.herokuapp.com/",
         github: "https://github.com/BohdanKhv/socketio-nodejs-react-chat",
         stack: [
             "React.js",
@@ -267,7 +262,6 @@ const projects = [
     },
     {
         title: "Tic-Tac-Toe live game",
-        url: "https://tictactoe-s.herokuapp.com",
         github: "https://github.com/BohdanKhv/tiktaktoe-socket-io",
         stack: [
             "React.js",

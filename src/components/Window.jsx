@@ -49,7 +49,7 @@ const Window = () => {
                     </div>
                     <div className="window-body-info mt-5">
                         "<a href={'/assets'+bohdan.resume} target="_blank" rel="noreferrer">
-                            khvorostovskyi-resume.pdf
+                            Bohdan_Khvorostovskyi_Resume.pdf
                             </a>"
                     </div>
                     <div className="window-body-content mt-25">
