@@ -27,7 +27,7 @@ const Work = () => {
                 <div className="work-title">
                     <div className="arrow-item">
                         <h1 className="arrow-text flex">
-                        <span>{">"}Work</span><div className="blink text-cursor"/>
+                        <span>{">"}Portfolio</span><div className="blink text-cursor"/>
                         </h1>
                     </div>
                     <p>

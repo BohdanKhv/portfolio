@@ -47,7 +47,7 @@ img {
 
 html {
   overflow-x: hidden;
-  scroll-behavior: smooth;
+  /* scroll-behavior: smooth; */
 }
 body {
   background-size: 40px 40px;

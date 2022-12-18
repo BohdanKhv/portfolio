@@ -4,7 +4,7 @@ footer {
     background-image: radial-gradient(circle, #ffffffde 1px, rgba(0, 0, 0, 0) 1px);
     background-color: #060606;
     filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.5));
-    margin-top: 50px;
+    margin-top: 150px;
 }
 .footer {
     padding-top: 150px;

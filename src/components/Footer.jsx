@@ -33,7 +33,7 @@ const Footer = () => {
               </div>
               <div className="footer-bottom">
                 <small>
-                  Handcrafted by me 2022
+                  Handcrafted by me
                 </small>
                 <h2>
                   khvorostovskyi.com
