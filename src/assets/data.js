@@ -14,7 +14,7 @@ const bohdan = {
         "Design",
         "Music",
     ],
-    education: "Master in Agriculture Engineering, Podilskyi Agrarian Technical University, Ukraine",
+    education: "Master's degree in Agriculture Engineering, Podilskyi Agrarian Technical University, Ukraine",
     skills: [
         "React.js",
         "MongoDB",
@@ -31,6 +31,28 @@ const bohdan = {
 }
 
 const projects = [
+    {
+        title: "Arvin Garay Portfolio",
+        github: "https://github.com/BohdanKhv/arvingaray.com",
+        url: "https://arvingaray.com",
+        stack: [
+            "React.js",
+            "HTML",
+            "CSS",
+        ],
+        image: "arvingaray.jpg",
+    },
+    {
+        title: "Track cycle expenses",
+        github: "https://github.com/BohdanKhv/aaronlopatin.com",
+        url: "https://aaronlopatin.com",
+        stack: [
+            "React.js",
+            "HTML",
+            "CSS",
+        ],
+        image: "aaronlopatin.jpg",
+    },
     {
         title: "Track cycle expenses",
         github: "https://github.com/BohdanKhv/cyclepay",
