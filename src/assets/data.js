@@ -6,11 +6,11 @@ const bohdan = {
         github: "https://github.com/BohdanKhv",
         leetcode: "https://leetcode.com/BohdanKhvorostovskyi/",
         googleplay: "https://play.google.com/store/apps/dev?id=6724538733217670707",
-        instagram: "https://www.instagram.com/bohdan.khvorostovskyi/"
+        instagram: "https://www.instagram.com/bohdan.khv/"
     },
     resume: "/Bohdan_Khvorostovskyi_CV.pdf",
     interests: [
-        "Web Development",
+        "Programming",
         "Design",
         "Music",
     ],
@@ -32,6 +32,45 @@ const bohdan = {
 
 const projects = [
     {
+        title: "Emplorex Business Suite",
+        url: "https://emplorex.com",
+        stack: [
+            "React.js",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "Redux",
+            "HTML",
+            "CSS",
+        ],
+        image: "emplorex.jpg",
+    },
+    {
+        title: "InCrew.cafe Job Board",
+        url: "https://increw.cafe",
+        stack: [
+            "React.js",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "Redux",
+            "HTML",
+            "CSS",
+        ],
+        image: "increw.jpg",
+    },
+    {
+        title: "Diva Rice Website",
+        github: "https://github.com/BohdanKhv/divarice",
+        url: "https://divarice.com",
+        stack: [
+            "React.js",
+            "HTML",
+            "CSS",
+        ],
+        image: "divarice.jpg",
+    },
+    {
         title: "Arvin Garay Portfolio",
         github: "https://github.com/BohdanKhv/arvingaray.com",
         url: "https://arvingaray.com",
@@ -43,7 +82,7 @@ const projects = [
         image: "arvingaray.jpg",
     },
     {
-        title: "Track cycle expenses",
+        title: "Aaron Lopatin Portfolio",
         github: "https://github.com/BohdanKhv/aaronlopatin.com",
         url: "https://aaronlopatin.com",
         stack: [
