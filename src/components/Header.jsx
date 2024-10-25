@@ -25,7 +25,7 @@ const Header = () => {
         <div className="container">
             <div className="header">
                 <div className="photo">
-                    <img src="/assets/photo.png" alt="Me" ref={imageRef} className={`${!loading ? 'opacity-0' : ''}`}/>
+                    <img src="/assets/photo.png" alt="Me" ref={imageRef}/>
                 </div>
                 <div className="info">
                     <div className="arrow-item">
