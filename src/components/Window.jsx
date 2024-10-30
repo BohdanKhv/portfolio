@@ -4,7 +4,7 @@ import './styles/window.css'
 
 const Window = () => {
     return (
-        <div className="container divider-minus">
+        <div className="container">
             <div className="window">
                 <div className="window-header">
                     <div className="dots">

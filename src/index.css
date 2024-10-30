@@ -156,6 +156,10 @@ body {
   fill: #fff;
 }
 
+.bg-white {
+  background-color: #fff;
+}
+
 .splash-screen {
   position: fixed;
   top: 0;
@@ -183,6 +187,32 @@ body {
 
 .opacity-0 {
   opacity: 0;
+}
+
+.min-h-100-vh {
+  min-height: 100vh;
+}
+.min-h-50-vh {
+  min-height: 50vh;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.flex {
+  display: flex;
+}
+.justify-center {
+  justify-content: center;
+}
+.align-center {
+  align-items: center;
+}
+
+.py-6 {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 
 @keyframes blink {

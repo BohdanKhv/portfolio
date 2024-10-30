@@ -15,7 +15,9 @@ const Home = () => {
     <div>
       <Header/>
       <div className="divider divider-minus-body"/>
-      <Window/>
+      <div className="divider-minus">
+        <Window/>
+      </div>
       <Work/>
       <Footer/>
     </div>

@@ -232,7 +232,7 @@ const projects = [
     },
     {
         title: "Old portfolio",
-        url: "https://spaceguy.org/",
+        url: "http://spaceguy.org.s3-website.us-east-2.amazonaws.com",
         github: "https://github.com/BohdanKhv/my-website-portfolio",
         stack: [
             "JavaScript",
@@ -362,7 +362,7 @@ const projects = [
     },
     {
         title: "Square Project RPG",
-        url: "https://play.google.com/store/apps/details?id=com.SpaceGuy.SquareProjectRPG",
+        deleted: true,
         stack: [
             "Unity",
             "C#",
@@ -371,7 +371,7 @@ const projects = [
     },
     {
         title: "Square Draggers",
-        url: "https://play.google.com/store/apps/details?id=com.SpaceGuy.SquareDraggers",
+        deleted: true,
         stack: [
             "Unity",
             "C#",
@@ -380,7 +380,7 @@ const projects = [
     },
     {
         title: "Comet Rush",
-        url: "https://play.google.com/store/apps/details?id=com.SpaceGuy.CometRush",
+        deleted: true,
         stack: [
             "Unity",
             "C#",
@@ -389,7 +389,7 @@ const projects = [
     },
     {
         title: "Space Jump",
-        url: "https://play.google.com/store/apps/details?id=com.SpaceGuy.SpaceJump",
+        deleted: true,
         stack: [
             "Unity",
             "C#",
@@ -398,7 +398,7 @@ const projects = [
     },
     {
         title: "My Cards",
-        url: "https://play.google.com/store/apps/details?id=com.softbusinesscards",
+        deleted: true,
         stack: [
             "React Native",
             "Python",

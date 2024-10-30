@@ -70,7 +70,13 @@ const Work = () => {
                                 <div className="window-dot-2"/>
                                 <div className="window-dot-3"/>
                             </div>
-                            <div className="work-card-image">
+                            <div className="work-card-image pointer"
+                                onClick={() => {
+                                    if (item.url) {
+                                        window.open(item.url, '_blank')
+                                    }
+                                }}
+                            >
                                 <div className="work-card-image-wrapper">
                                     <img
                                         src={`/assets/work/${item.image}`}
@@ -100,10 +106,17 @@ const Work = () => {
                                 }
                             </div>
                             <div className="work-card-actions">
+                                {item.deleted &&
+                                    <div className="work-card-deleted">
+                                        <span>
+                                            Delisted
+                                        </span>
+                                    </div>
+                                }
                                 {item.url &&
                                     <a href={item.url} target="_blank" rel="noreferrer" className="btn btn-link">
                                         <span>{linkIcon}</span>
-                                        Preview
+                                        View
                                     </a>
                                 }
                                 {item.github &&

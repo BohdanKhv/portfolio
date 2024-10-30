@@ -12,9 +12,9 @@ const About = () => {
 
     return (
         <>
-        <Header/>
-        <div className="divider divider-minus-body"/>
-        <Window/>
+        <div className="min-h-100-vh flex justify-center align-center">
+            <Window/>
+        </div>
         <Footer/>
         </>
     )

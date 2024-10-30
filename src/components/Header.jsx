@@ -28,7 +28,7 @@ const Header = () => {
                     <img src="/assets/photo.png" alt="Me" ref={imageRef}/>
                 </div>
                 <div className="info">
-                    <div className="arrow-item">
+                    <div className="arrow-item bg-white">
                         <h1 className="arrow">
                             {">"}
                         </h1>
@@ -36,7 +36,7 @@ const Header = () => {
                             Bohdan Khvorostovskyi
                         </h1>
                     </div>
-                    <div className="arrow-item">
+                    <div className="arrow-item bg-white">
                         <h2 className="arrow">
                             {">"}
                         </h2>
