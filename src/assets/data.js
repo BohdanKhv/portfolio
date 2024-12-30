@@ -32,6 +32,20 @@ const bohdan = {
 
 const projects = [
     {
+        title: "Board Game Community Platform",
+        url: "https://bggrid.com",
+        stack: [
+            "React.js",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "Redux",
+            "HTML",
+            "CSS",
+        ],
+        image: "bggrid.jpg",
+    },
+    {
         title: "Emplorex Business Suite",
         url: "https://emplorex.com",
         stack: [

@@ -25,7 +25,7 @@ const Header = () => {
         <div className="container">
             <div className="header">
                 <div className="photo">
-                    <img src="/assets/photo.png" alt="Me" ref={imageRef}/>
+                    <img src="/assets/photo-2.png" alt="Me" ref={imageRef}/>
                 </div>
                 <div className="info">
                     <div className="arrow-item bg-white">
