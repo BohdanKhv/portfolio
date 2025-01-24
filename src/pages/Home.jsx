@@ -8,7 +8,7 @@ const Home = () => {
 
   useEffect(() => {
       window.scrollTo(0, 0);
-      document.title = "Bohdan Khvorostovskyi | Portfolio | Web developer | Programming | Design | Khvorostovskyi.com"
+      document.title = "Bohdan Khvorostovskyi | Home | Portfolio | Web developer | Programming | Design | Khvorostovskyi.com"
   }, [])
 
   return (

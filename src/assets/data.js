@@ -33,7 +33,7 @@ const bohdan = {
 const projects = [
     {
         title: "Board Game Community Platform",
-        url: "https://bggrid.com",
+        github: "https://github.com/BohdanKhv/bggrid.com",
         stack: [
             "React.js",
             "Node.js",
